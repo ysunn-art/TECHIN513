@@ -1,0 +1,18 @@
+{
+  "participant_id": "eason02",
+  "session_id": "20260221_152030",
+  "session_start": "2026-02-21T15:20:33.745645",
+  "session_end": "2026-02-21T16:21:37.684419",
+  "duration_seconds": 3663.9,
+  "duration_minutes": 61.1,
+  "platform": "Windows",
+  "python_version": "3.14.3",
+  "target_polling_rate_hz": 1000,
+  "effective_event_rate_hz": 423.2,
+  "total_events": 1550592,
+  "move_events": 1658877,
+  "click_events": 857,
+  "scroll_events": 1236,
+  "fatigue_reports_count": 5,
+  "mouse_info": "Update manually: mouse model, DPI, polling rate setting"
+}

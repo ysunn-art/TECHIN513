@@ -1,0 +1,18 @@
+{
+  "participant_id": "zzy01",
+  "session_id": "20260222_005837",
+  "session_start": "2026-02-22T00:58:40.948941",
+  "session_end": "2026-02-22T02:13:02.735942",
+  "duration_seconds": 4461.8,
+  "duration_minutes": 74.4,
+  "platform": "Windows",
+  "python_version": "3.14.3",
+  "target_polling_rate_hz": 1000,
+  "effective_event_rate_hz": 2.2,
+  "total_events": 9919,
+  "move_events": 134885,
+  "click_events": 535,
+  "scroll_events": 58,
+  "fatigue_reports_count": 5,
+  "mouse_info": "Update manually: mouse model, DPI, polling rate setting"
+}

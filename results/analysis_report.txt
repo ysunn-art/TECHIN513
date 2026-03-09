@@ -1,0 +1,33 @@
+============================================================
+PsychoMouse Analysis Report
+Generated: 2026-02-22 15:45:57
+============================================================
+
+DATASET SUMMARY
+----------------------------------------
+Total windows:     611
+Alert windows:     234
+Fatigued windows:  377
+Participants:      5
+Sessions:          6
+
+RANDOM FOREST RESULTS (Cross-Validation)
+----------------------------------------
+ACCURACY    : 0.627 ± 0.219
+PRECISION   : 0.638 ± 0.341
+RECALL      : 0.559 ± 0.348
+F1          : 0.586 ± 0.335
+ROC_AUC     : nan ± nan
+
+FEATURE IMPORTANCE (Top 10)
+----------------------------------------
+   1. velocity_mean             0.1586
+   2. velocity_median           0.1165
+   3. path_efficiency           0.1045
+   4. velocity_max              0.1023
+   5. spectral_entropy          0.0843
+   6. tremor_energy_ratio       0.0523
+   7. accel_mean                0.0434
+   8. velocity_std              0.0400
+   9. direction_change_std      0.0392
+  10. click_interval_cv         0.0378

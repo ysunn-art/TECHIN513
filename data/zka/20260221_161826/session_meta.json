@@ -1,0 +1,18 @@
+{
+  "participant_id": "zka",
+  "session_id": "20260221_161826",
+  "session_start": "2026-02-21T16:18:29.928469",
+  "session_end": "2026-02-21T17:24:14.684668",
+  "duration_seconds": 3944.8,
+  "duration_minutes": 65.7,
+  "platform": "Windows",
+  "python_version": "3.14.0",
+  "target_polling_rate_hz": 1000,
+  "effective_event_rate_hz": 30.7,
+  "total_events": 121205,
+  "move_events": 288991,
+  "click_events": 988,
+  "scroll_events": 585,
+  "fatigue_reports_count": 3,
+  "mouse_info": "Update manually: mouse model, DPI, polling rate setting"
+}
