@@ -11,7 +11,7 @@
 PsychoMouse is a software-based system that monitors mouse cursor behavior to detect cognitive fatigue in real time. By capturing high-frequency kinematic data (1000 Hz) from a standard gaming mouse, the system applies signal processing techniques — Butterworth filtering, derivative computation, and FFT spectral analysis — to extract features that distinguish between alert and fatigued states. A machine learning classifier (SVM) achieves **73% accuracy** and **0.78 AUC-ROC** in cross-validated evaluation.
 
 **Team 2** — Eason Sun · Phoenix Hua · Spencer Zhang
-**Course** — Signal Processing, February 2026
+**Course** — TECHIN513, March 2026
 
 ---
 
